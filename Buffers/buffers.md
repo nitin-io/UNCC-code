@@ -11,3 +11,7 @@
 
     Character Encodings: A system of assigning a sequence of bytes (just some zeros and ones) to a character. 
     The most comman one is utf-8, defined by the Unicode Standard, therefore its character have the same numbers as the Unicode.
+
+## Buffers
+Buffer is a container in memory. Buffers are not array but they behave like array.
+Data can be quickly add or remove from buffers. 
